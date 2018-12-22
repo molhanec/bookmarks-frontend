@@ -52,13 +52,16 @@ the application in the browser.
 
 ## Known issues
 
-This being demo not a real app it uses the most recent JavaScript possible.
+This being demo and not a real app it uses the most recent JavaScript possible.
 This also means that it requires latest versions of Chrome/Firefox/Safari
 as of the December 2018. It does not work with Microsoft Edge or Internet
 Explorer.
 
 On Safari the "Add" button has slightly different look than in other
 browsers but it works just fine.
+
+And of course this is very, very small demo. The functionality is really
+very limited.
 
 ---
 
