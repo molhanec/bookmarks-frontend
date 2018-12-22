@@ -1,0 +1,17 @@
+#mainContent {
+  animation: opacity 2s;
+}
+
+@keyframes opacity {
+  from { opacity:0 }
+  to   { opacity:1 }
+}
+
+.message-leave {
+  opacity: 1;
+}
+
+.message-leave.message-leave-active {
+  opacity: 0.01;
+  transition: opacity 1s;
+}

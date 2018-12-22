@@ -1,0 +1,15 @@
+#input-and-config, #input-and-config .input-group-text, #input-and-config input
+{
+  font-size: 0.8rem;
+}
+
+#input-and-config .input-group-text
+{
+  padding: 0.1875rem 0.375rem;
+}
+
+#input-and-config input.form-control
+{
+  padding: 0.1875rem 0.375rem;
+  height: calc(0.8rem + 2 * 0.375rem + 2px)
+}
